@@ -1,10 +1,9 @@
 class Gping < Formula
   desc "Ping, but with a graph"
   homepage "https://github.com/orf/gping"
-  url "https://github.com/orf/gping/archive/refs/tags/gping-v1.16.1.tar.gz"
-  sha256 "557dad6e54b5dd23f88224ea7914776b7636672f237d9cbbea59972235ca89a8"
+  url "https://github.com/orf/gping/archive/refs/tags/gping-v1.17.1.tar.gz"
+  sha256 "4d12240a3a90b9d88b472a4d1a2e6b6bc54d7f18805057593230b5e555421dfc"
   license "MIT"
-  revision 1
   head "https://github.com/orf/gping.git", branch: "master"
 
   # The GitHub repository has a "latest" release but it can sometimes point to
